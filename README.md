@@ -14,7 +14,7 @@
 ## Repositório com Listas, projetos e mais!
 O conhecimento que for adquirindo das aulas, listas, projetos e etc., irei salvando no repo!
 
-
+> As aulas, colocarei prioritariamente no Gitlab, por comodidade.
 
 ---
 
