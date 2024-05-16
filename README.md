@@ -7,12 +7,12 @@
 
 @Github on <a style="color: white; text-decoration: none;" href="https://github.com/Vjfrib/ED/">https://github.com/Vjfrib/ED</a>, then <a href="https://github.com/Vjfrib/ED/blob/main/listas/lista_1_ed.ipynb">listas/lista_1_ed.ipynb</a>
 
-
+@[﻿Gitlab](https://gitlab.com/ippiki/estrutura-de-dados).
 
 ---
 
 ## Repositório com Listas, projetos e mais!
-O conhecimento ue for adiquirindo das aulas, listas, projetos e etc irei salvando no repo.
+O conhecimento que for adquirindo das aulas, listas, projetos e etc., irei salvando no repo!
 
 
 
