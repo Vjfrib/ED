@@ -1,21 +1,16 @@
 <p><a target="_blank" href="https://app.eraser.io/workspace/fnPMTha9Hwwjz8WsEtCm" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
 
-# ED
-Tentativa de redimir meus erros.
+# Estrutura de dados
+*Prof. Dr. Cleyton Mário*
+<br>
+*Disc. Vinícius Ribeiro*
 
-
-
-vou tentar rushar o assunto pra chegar mais pronto e...
-
-com... algo d algum projeto em mente,
-
-
-
-filando do que ele passou em...outros classroom.
+@Github on <a style="color: white; text-decoration: none;" href="https://github.com/Vjfrib/ED/">https://github.com/Vjfrib/ED</a>, then <a href="https://github.com/Vjfrib/ED/blob/main/listas/lista_1_ed.ipynb">listas/lista_1_ed.ipynb</a>
 
 
 
 ---
+
 
 
 
